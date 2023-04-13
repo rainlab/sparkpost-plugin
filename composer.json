@@ -1,0 +1,9 @@
+{
+    "name": "rainlab/sparkpost-plugin",
+    "type": "october-plugin",
+    "description": "Adds support for SparkPost as a mail driver in October CMS",
+    "require": {
+        "composer/installers": "~1.0",
+        "vemcogroup/laravel-sparkpost-driver": "^5.0"
+    }
+}
