@@ -16,4 +16,4 @@ composer require rainlab/sparkpost-plugin
 
 ### License
 
-This plugin is an official extension of the October CMS platform and is free to use if you have a platform license. See [EULA license](./LICENSE.md) for more details.
+This plugin is licensed under the [MIT license](./LICENSE.md). You are welcome to copy it to create your own mail drivers for October CMS.
